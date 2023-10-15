@@ -1,4 +1,4 @@
-![llamas stacked](stacked_llamas.png =250x250)
+<img src="stacked_llamas.png" width=25% height=25%>
 
 # stacking_llamas
 

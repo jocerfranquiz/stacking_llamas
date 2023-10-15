@@ -1,5 +1,8 @@
+![llamas stacked](stacked_llamas.png)
+
 # stacking_llamas
-## stack language generated with codellama **
+
+## stack language generated with codellama 
 
 tools
 --> codellama

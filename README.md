@@ -1,17 +1,17 @@
 # super_awesome_llm_generated_stack_mini_language_with_memes
 ## use a LLM to craft a mini language interpreter **
 
-tools:
+tools
 --> codellama
 --> langchain
 --> ollama
 --> python
 
-features:
+features
 ✅ repl
 ✅ turing complete 
 ✅ bad semantics
 ✅ memes
 
-why this?
+## why this?
 because I have no life

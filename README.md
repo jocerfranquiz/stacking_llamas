@@ -1,4 +1,4 @@
-![llamas stacked](stacked_llamas.png)
+![llamas stacked](stacked_llamas.png =250x250)
 
 # stacking_llamas
 

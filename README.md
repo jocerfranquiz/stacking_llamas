@@ -1,5 +1,5 @@
-# super_awesome_llm_generated_stack_mini_language_with_memes
-## use a LLM to craft a mini language interpreter **
+# stacking_llamas
+## stack language generated with codellama **
 
 tools
 --> codellama
